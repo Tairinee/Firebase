@@ -1,0 +1,32 @@
+[debug] [2023-04-19T18:44:50.786Z] ----------------------------------------------------------------------
+[debug] [2023-04-19T18:44:50.791Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\terminal08\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-04-19T18:44:50.791Z] CLI Version:   11.28.0
+[debug] [2023-04-19T18:44:50.792Z] Platform:      win32
+[debug] [2023-04-19T18:44:50.792Z] Node Version:  v18.15.0
+[debug] [2023-04-19T18:44:50.794Z] Time:          Wed Apr 19 2023 15:44:50 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2023-04-19T18:44:50.795Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-04-19T18:44:50.912Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-04-19T18:44:50.913Z] > authorizing via signed-in user (tayrine.pvh@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\terminal08\angular-codelabFirebase\kanban-fire
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
